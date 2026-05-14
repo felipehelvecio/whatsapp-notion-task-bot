@@ -107,7 +107,7 @@ npm install
 
 ---
 
-# 🔐 Configuração
+# Configuração
 
 Crie um arquivo `.env`
 
@@ -118,7 +118,7 @@ DATABASE_ID=SEU_DATABASE_ID
 
 ---
 
-# ▶️ Executar o projeto
+# Executar o projeto
 
 ```bash id="2l4jlwm"
 node index.js
@@ -126,7 +126,7 @@ node index.js
 
 ---
 
-# 📌 Estrutura do banco no Notion
+# Estrutura do banco no Notion
 
 O banco de dados deve conter:
 
